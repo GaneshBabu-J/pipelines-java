@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ganeshj1409/gradle%20pipeline/_apis/build/status/GaneshBabu-J.pipelines-java?branchName=master)](https://dev.azure.com/ganeshj1409/gradle%20pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
