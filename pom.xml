@@ -47,5 +47,21 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
+  
+<distributionManagement>
+ <repositories>
+ <repository>
+<id>dev-azure-com-ganeshj1409-ganeshj1409</id>
+<url>https://pkgs.dev.azure.com/ganeshj1409/_packaging/ganeshj1409/maven/v1</url>
+<releases>
+<enabled>true</enabled>
+</releases>
+<snapshots>
+<enabled>true</enabled>
+</snapshots>
+</repository>
+	</repositories>
+	</distributionManagement>
+
 	
 </project>
